@@ -1,2 +1,6 @@
 Este é um ficheiro file3
 
+
+
+
+Acrescentei algumas linhas
